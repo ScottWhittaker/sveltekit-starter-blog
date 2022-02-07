@@ -1,5 +1,6 @@
 ---
 title: About
+description: About this starter template
 ---
 
 ## {title}
