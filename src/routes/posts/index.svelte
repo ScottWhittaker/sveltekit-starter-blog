@@ -19,6 +19,11 @@
 </script>
 
 
+<svelte:head>
+    <title>Posts</title>
+    <meta name="description" content="A list of posts">
+</svelte:head>
+
 {#each posts as post}
     <PostPreview post={post} />
 {/each}

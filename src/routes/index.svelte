@@ -1,5 +1,6 @@
 <svelte:head>
     <title>Home</title>
+    <meta name="description" content="Just another Sveltekit stater blog">
 </svelte:head>
 
 <h2>Welcome to the <span>SvelteKit Blog Starter</span></h2>
