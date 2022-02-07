@@ -52,4 +52,9 @@ Constant|Value|Description
 |HAVE_ENOUGH_DATA	| 4	| Enough data is available—and the download rate is high enough—that the media can be played through to the end without interruption.
 </div>
 
+<script>
+    import GeologicTimescale from '$lib/geologic-timescale/GeologicTimescale.svelte';
+</script>
+
+<GeologicTimescale/>
 
