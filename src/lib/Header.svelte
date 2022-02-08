@@ -4,7 +4,7 @@
 
 <header>
     <div class="g-wrapper">
-        <h1>SvelteKit Blog Starter</h1>
+        <h1>Scott Whittaker</h1>
         <Nav/>
     </div>
 </header>
